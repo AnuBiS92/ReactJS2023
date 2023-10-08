@@ -1,0 +1,6 @@
+body{
+    background-color: rgba(246, 255, 127, 0.747);
+    color: blueviolet;
+    display: flex;
+    justify-content: center;
+}
